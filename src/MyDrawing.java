@@ -3,7 +3,9 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+/*
+ * Assignment for CSCI 306, Taylor Thomas and Christine Hwang
+ */
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
